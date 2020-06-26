@@ -1,0 +1,16 @@
+.btn-banner{
+	background-color: grey;
+	padding: 15px 20px;
+	border-radius: 4px
+	color: grey;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+}
+
+.btn-style {
+	background-color: #464545;
+	padding: 10px 15px;
+	border-radius: 5px;
+	color: white;
+	font-weight: bold;
+}
